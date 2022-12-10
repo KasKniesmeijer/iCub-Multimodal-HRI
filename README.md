@@ -3,7 +3,7 @@ A repository for iCub Multimodal HRI.
 #### Abstract
 This study uses multisensory data (i.e., color and depth) to recognize human actions in the context of multimodal human-robot interaction. Here we employed the iCub robot to observe the predefined actions of the human partners by using four different tools on 20 objects. We show that the proposed multimodal ensemble learning leverages complementary characteristics of three color cameras and one depth sensor that improves, in most cases, recognition accuracy compared to the models trained with a single modality.
 
-To reproduce the results and to provide all the related data for the interested researchers, we created this repository.
+This repository is for the interested researches to reproduce the results.
 
 #### Folder and file descriptions
 * Code:               Preprocessing, Modelling and Ensemble learning code.
