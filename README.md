@@ -7,13 +7,18 @@ To reproduce the results and to provide all the related data for the interested 
 
 #### Folder and file descriptions
 * Code:               Preprocessing, Modelling and Ensemble learning code.
-* Confusion Matrices:    
+* Confusion Matrices: Multimodal and unimodal confusion matrices.   
 
+
+#### Dataset 
 Dataset Link: [https://www.crossvalidate.me/datasets/](https://www.crossvalidate.me/datasets/)
+
+
 
 
 <!-- CONTACT -->
 #### Contact
+
 
 Kas Kniesmeijer - K.L.Kniesmeijer@tilburguniversity.com
 
