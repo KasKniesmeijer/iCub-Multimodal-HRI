@@ -6,8 +6,11 @@ This study uses multisensory data (i.e., color and depth) to recognize human act
 To reproduce the results and to provide all the related data for the interested researchers, we created this repository.
 
 #### Folder and file descriptions
-* Dataset:  link to the dataset.
-* Code:     Preprocessing, Modelling and Ensemble learning code.     
+* Code:               Preprocessing, Modelling and Ensemble learning code.
+* Confusion Matrices:    
+
+Dataset Link: [https://www.crossvalidate.me/datasets/](https://www.crossvalidate.me/datasets/)
+
 
 <!-- CONTACT -->
 #### Contact
