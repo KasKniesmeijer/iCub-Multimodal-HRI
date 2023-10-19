@@ -20,7 +20,7 @@ Dataset Link: [https://www.crossvalidate.me/datasets/](https://www.crossvalidate
 #### Contact
 
 
-Kas Kniesmeijer - K.L.Kniesmeijer@tilburguniversity.com
+Kas Kniesmeijer - kaskniesmeijer@gmail.com
 
 Project Link: [https://github.com/KasKniesmeijer/iCub-Multimodal-HRI](https://github.com/KasKniesmeijer/iCub-Multimodal-HRI)
 
